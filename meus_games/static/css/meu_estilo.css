@@ -1,0 +1,36 @@
+
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 20px;
+    padding: 20px;
+    background-color: palegreen; /* Fundo preto */
+    color:mediumslateblue; /* Texto vermelho */
+}
+
+header {
+    background-color: palegreen;
+    color: mediumslateblue;
+    padding: 10px;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+h1, h2 {
+    color: mediumslateblue;
+    
+}
+
+.filme {
+    border: 1px solid #ddd;
+    padding: 15px;
+    margin-bottom: 20px;
+    background-color: palegreen; /* Fundo mais escuro */
+    border-radius: 5px;
+}
+
+.filme img {
+    max-width: 100%;
+    height: auto;
+    margin-bottom: 10px;
+}
+
